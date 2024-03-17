@@ -1,0 +1,7 @@
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
